@@ -22,14 +22,8 @@ Este projeto consiste em um dashboard interativo desenvolvido para análise de v
   <img src="screenshots/tela_04.png" width="48%">
 </p>
 
-## 👨‍💻 Autor
-
-**Rayssa Lima**
-
-Estudante de Ciência de Dados para Negócios.
 
 ### Contato
 
 - LinkedIn: www.linkedin.com/in/rayssa-amelia
 - GitHub: https://github.com/seu-usuario
-```
