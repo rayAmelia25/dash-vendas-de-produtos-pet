@@ -10,15 +10,6 @@ Este projeto consiste em um dashboard interativo desenvolvido para análise de v
 🐍 Python | 🗂️ Pandas | 🌐 Streamlit | 📉 Plotly | 🔧 Git | 💻 GitHub
 </p>
 
-## 📊 Funcionalidades
-
-- Visualização de KPIs de vendas.
-- Análise por categoria de produto.
-- Distribuição de estoque.
-- Gráficos interativos.
-- Filtros dinâmicos para exploração dos dados.
-- Dashboard responsivo e intuitivo.
-
 ## 📷 Demonstração
 
 ![Dashboard](images/dashboard.png) depois colocar aqui
