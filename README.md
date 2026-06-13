@@ -28,4 +28,3 @@ Este projeto consiste em um dashboard interativo desenvolvido para análise de v
 ### Contato
 
 - LinkedIn: www.linkedin.com/in/rayssa-amelia
-- GitHub: https://github.com/seu-usuario
